@@ -123,3 +123,29 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+
+/* add an amazing animation to the social icons */
+.socialIcon {
+  transition: transform 0.2s;
+}
+
+.socialIcon:hover {
+  transform: scale(1.2);
+}
+
+/* add a nice animation to the social icons */
+.socialIcon {
+  transition: transform 0.2s;
+}
+
+.socialIcon:hover {
+  transform: scale(1.2);
+}
+
+.socialIcon {
+  transition: transform 0.2s;
+}
+
+.socialIcon:hover {
+  transform: scale(1.2);
+}
